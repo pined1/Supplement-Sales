@@ -1,0 +1,13 @@
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+Pipfile.lock
+Pipfile
+
+
+# Data files (optional: exclude big or sensitive files)
+data/raw/
+data/processed/
