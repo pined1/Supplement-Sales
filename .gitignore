@@ -11,3 +11,4 @@ Pipfile
 # Data files (optional: exclude big or sensitive files)
 data/raw/
 data/processed/
+**/.DS_Store
